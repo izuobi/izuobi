@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey there, I'm Izunna 👋
+
+🌱 I’m currently learning Cybersecurity 
+
+📫 How to reach me: obineli.izunna@gmail.com
 
 <!--
 **izuobi/izuobi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
