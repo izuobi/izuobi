@@ -1,6 +1,6 @@
 ### Hey there, I'm Izunna 👋
 
-🌱 I’m currently learning Cybersecurity 
+🌱 I’m currently learning 
 
 📫 How to reach me: obineli.izunna@gmail.com
 
